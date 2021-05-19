@@ -1,0 +1,5 @@
+welcome ai
+git basic concepts 
+git basic installation
+repositary creation
+data collection
